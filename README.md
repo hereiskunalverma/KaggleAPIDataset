@@ -6,3 +6,7 @@ prefer to KaggleAPIDatasetColab
 
 ## 2. using Kaggle API locally (Windows)
 prefer to KaggleAPIDatasetWin
+
+
+## 3. For more command prefer to Official Kaggle API
+https://github.com/Kaggle/kaggle-api
